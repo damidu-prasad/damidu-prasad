@@ -6,7 +6,7 @@
 
 
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Daughter&color=%236FDA44&size=40&margin=100&lines=Hi!+I'm+Damidu+prasad!;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Daughter&color=%236FDA44&size=40&lines=Hi!+Every+one;+I'm+Damidu+Prasad!;)](https://git.io/typing-svg)
 
 
 </div>
